@@ -4,7 +4,8 @@
 }
 
 #back{
-    background: url(amado.jpeg) center ;
+    background: url(amado.jpeg) ;
+    background-color: midnightblue;
     
 }
 
@@ -13,3 +14,4 @@
     margin: 10px;
     color: brown;
 }
+ 
