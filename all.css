@@ -1,26 +1,15 @@
-#is{
+.is{
     text-align: center;
     background-color: aquamarine;
 }
 
 #back{
-    background: url(amado.jpeg);
+    background: url(amado.jpeg) center ;
+    
 }
 
-#prim{
+.prim{
     background-color: cadetblue;
     margin: 10px;
     color: brown;
-}
-
-#segun{
-     background-color: aquamarine;
-     margin: 10px;
-     text-align: center;
-}
-
-#terc{
-    color: brown;
-    background-color: cadetblue;
-    margin: 10px;
 }
