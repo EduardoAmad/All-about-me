@@ -5,13 +5,34 @@
 
 #back{
     background: url(amado.jpeg) ;
-    background-color: midnightblue;
+    
     
 }
 
 .prim{
     background-color: cadetblue;
-    margin: 10px;
+    margin: 5px;
     color: brown;
+    text-align: justify;
+    font-size: 1.2rem;
+    overflow: auto;
 }
  
+#table{
+    color: whitesmoke;
+    text-align: center;
+      border-width: 5px;
+      border-style: solid;
+      border-color: brown;
+      border-radius: 10px;
+      background-image: url(ensina.jpeg);
+      font-size: 1.5rem;
+      width: 220px;
+      margin: auto;
+}
+
+img{
+    float: right;
+    width: 300px;
+    height: 270px;
+}
